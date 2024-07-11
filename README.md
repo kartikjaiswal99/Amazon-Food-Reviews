@@ -1,5 +1,7 @@
 # Amazon Fine Food Reviews Analysis
 
+This project involves applying machine learning algorithms to predict whether Amazon fine food reviews are positive. Techniques include text preprocessing, vectorization (BoW, TF-IDF, Word2Vec), and models like KNN, Naive Bayes, and Logistic Regression.
+
 ## Data Source
 - **Dataset**: [Kaggle - Amazon Fine Food Reviews](https://www.kaggle.com/snap/amazon-fine-food-reviews)
 
